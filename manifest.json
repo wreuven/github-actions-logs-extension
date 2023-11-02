@@ -15,7 +15,8 @@
 			"matches": [
 				"https://pipelines.actions.githubusercontent.com/serviceHosts/*",
 				"https://*.actions.githubusercontent.com/*",
-				"https://cdn.artifacts.gitlab-static.net/*"
+				"https://cdn.artifacts.gitlab-static.net/*",
+				"https://*.synamedia.com/*"				
 			]
 		}
 	]	
